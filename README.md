@@ -21,3 +21,7 @@ These templates are designed to take payment and accounting reports from merchan
 
 To simplify the data migration process, I created this template. It allows you to take your QuickBooks general ledger and the chart of accounts from your new platform, then automatically generates a file for upload. This way, you can transfer all your historical financial data with a simple copy-paste method—eliminating the need for hours of manual data entry.</p1>
 
+<H2>Business Operations</H2>
+<h3>Timesheet</h3>
+<p>This timesheet template enables users to track their worked hours in relation to specific projects. To ensure data accuracy, fields are restricted to their appropriate data types - dates can only contain dates, times can only contain times, and no invalid entries are allowed. The Finance sheet detects overtime hours and calculates overtime payout based on the time entry.
+<b>Important:</b> This is intended as a temporary solution. For compliance and best practices, I strongly recommend using a dedicated HR or payroll platform for any official HR and payroll-related tracking.</p>
