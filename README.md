@@ -1,5 +1,5 @@
 <h2>Overview</h2>
-<p1>This repository contains Excel templates and solutions I've developed over the years as a Business Analyst, Business Operations Specialist, and Application Support Specialist. As a small business owner myself, I understand the challenges of running a business efficiently. These templates are designed to help streamline workflows, reduce bottlenecks, and improve productivity.
+<p1>This repository contains Excel templates and solutions I've developed over the years. As a small business owner myself, I understand the challenges of running a business efficiently. These templates are designed to help streamline workflows, reduce bottlenecks, and improve productivity.
 
 Feel free to download and use them as needed—I hope they bring value to you and your business! </p1>
 
